@@ -39,4 +39,5 @@ public class ActivateController extends HttpServlet {
             response.sendRedirect("login");
         }
     }
-}
+}// duc dep trai 
+// dep trai 102
